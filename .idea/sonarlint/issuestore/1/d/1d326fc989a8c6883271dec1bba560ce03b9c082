@@ -1,0 +1,11 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(…¦›Ñ8Õ†£ê-
+Isquid:S1481"&Remove this unused "t" local variable.(ëâ¬åùÿÿÿÿ8Õ†£ê-
+Ksquid:S1444"(Make this "public static t2" field final(å£Ÿ—úÿÿÿÿ8Õ†£ê-
+ˆ"squid:ClassVariableVisibilityCheck"NMake t1 a static final constant or non-public and provide accessors if needed.(ææ³ªùÿÿÿÿ8Õ†£ê-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(…¦¨øÿÿÿÿ8Õ†£ê-
+Ksquid:S1444"(Make this "public static t1" field final(ææ³ªùÿÿÿÿ8Õ†£ê-
+Xsquid:S1854"5Remove this useless assignment to local variable "t".(ëâ¬åùÿÿÿÿ8Õ†£ê-
+ˆ"squid:ClassVariableVisibilityCheck"NMake t2 a static final constant or non-public and provide accessors if needed.(å£Ÿ—úÿÿÿÿ8Õ†£ê-

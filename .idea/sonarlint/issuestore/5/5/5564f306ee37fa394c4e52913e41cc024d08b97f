@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Β²ί8“ρΈάθ-
+dsquid:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8®ΝΚάθ-
+Nsquid:S2446"0"notify" may not wake up the appropriate thread.(βΜ†8Σ€Κάθ-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(φΘ>8Δα‡έθ-
+Fsquid:S1148!"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8®ΝΚάθ-
