@@ -1,4 +1,4 @@
-package main.java.com.yjz.app.creational.Singleton;
+package com.yjz.app.creational.Singleton;
 
 /**
  * Created by jasyu on 2019/12/10.
